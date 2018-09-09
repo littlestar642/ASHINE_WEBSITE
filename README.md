@@ -32,7 +32,7 @@ You will need the following things properly installed on your computer.
 
 ## Join the development:
 
-* Read [CONTRIBUTING.md](https://github.com/UdacityFrontEndScholarship/udabuddy/blob/master/CONTRIBUTING.md).
+* Read [CONTRIBUTING.md](https://github.com/littlestar642/ASHINE_WEBSITE/blob/master/CONTRIBUTING.md).
 * Before you start contributing, run the app on your local machine, get familiar with it and then check for bugs 
 or more features.
 * If you find any bug or want to add a new feature you have to open a new issue.
